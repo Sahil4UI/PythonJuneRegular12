@@ -1,0 +1,3 @@
+Python is High Level Lng.
+Python is  interpreted  Lng.
+
